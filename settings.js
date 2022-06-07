@@ -26,8 +26,8 @@
   global.ownername = 'Jaka' // Ganti Jadi Namamu
   global.owner = ['6285785694474','6285785694474','6285785694474'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285785694474' // Owner Utama Istilahnya
-  global.botname = 'Sakura Botz' // Ganti Jadi Nama Botmu
-  global.packname = 'Sakura Botz' // Sticker Weem
+  global.botname = 'ZeroTwo Botz' // Ganti Jadi Nama Botmu
+  global.packname = 'ZeroTwo Botz' // Sticker Weem
   global.author = 'Jaka' // Sticker Weem
   global.webme = 'https://instagram.com/itsme_nitsu' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY' // Ganti Sama Link Gc Mu
@@ -67,7 +67,7 @@
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
-  global.thumb = fs.readFileSync('./media/hinata.jpg')
+  global.thumb = fs.readFileSync('./media/hinatah.jpg')
     
   // Ini Gausah Diubah
   let file = require.resolve(__filename)
